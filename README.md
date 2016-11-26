@@ -14,9 +14,13 @@ TODO LIST 1:
 
   twitter (type B agent):
   
-    oauth2 authentication
+    (DONE) oauth2 authentication
     
-    api consumer
+    (STARTED) api consumer
+    
+    dont allow twitter news with more than x% non alphabet characters ( a-zA-Z )
+    
+    Cyclic behaviour
     
     
   Type A agent:
