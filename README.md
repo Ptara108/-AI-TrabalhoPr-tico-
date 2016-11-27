@@ -2,7 +2,9 @@
 
 
 MATERIAL:
-
+  
+  News APIs: http://www.programmableweb.com/category/News%20Services/apis?category=20250
+  
   http://twitter4j.org/en/
   
   http://www.java2s.com/Code/Jar/j/Downloadjdbcjar.htm
